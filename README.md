@@ -1,5 +1,4 @@
-# 🚀 Building Intelligence, One Algorithm at a Time
-
+# llm.invoke("Generate a bio")
 ```ascii
 ┌─[ PRANAV PUSHKAR MISHRA ]─────────────────────────────┐
 │ ▶ AI/ML Engineer & Game Developer                     │
@@ -8,52 +7,6 @@
 └───────────────────────────────────────────────────────┘
 ```
 
-```ascii
-╔══════════════════════════════════════════════════════╗
-║ ░▒▓ Research Software Engineer @ UIC ▓▒░             ║
-║ ░▒▓ AI/ML Engineer • Game Developer ▓▒░              ║
-║ ░▒▓ Software Engineering Intern @ WheelPrice ▓▒░     ║
-╚══════════════════════════════════════════════════════╝
-```
-
-```ascii
-    ╭─────[ PLAYER: PRANAV MISHRA ]─────╮
-    │ 🎮 Game Developer                  │
-    │ 🤖 AI/ML Engineer                  │
-    │ 🔬 Research Software Engineer      │
-    │ 💼 Software Engineering Intern     │
-    ╰───────────────────────────────────╯
-```
-
-Option 5 - Code Block Style:
-```ascii
-/* ================================================= */
-/*  PRANAV PUSHKAR MISHRA                           */
-/*  Research Software Engineer @ UIC               */
-/*  AI/ML Engineer | Game Developer                */
-/*  Software Engineering Intern @ WheelPrice Inc   */
-/* ================================================= */
-```
-
-Option 6 - Terminal Window:
-```ascii
-┌─ Terminal ─────────────────────────────── ─ □ × ┐
-│ $ whoami                                        │
-│ > Research Software Engineer @ UIC              │
-│ > AI/ML Engineer & Game Developer               │
-│ > Software Engineering Intern @ WheelPrice Inc  │
-│ $ █                                             │
-└─────────────────────────────────────────────────┘
-```
-
-Option 8 - Matrix Style:
-```ascii
-╔═══════════════════════════════════════════════════╗
-║ > Research_Software_Engineer.exe @ UIC            ║
-║ > AI_ML_Engineer.exe && Game_Developer.exe        ║
-║ > Software_Engineering_Intern.exe @ WheelPrice    ║
-╚═══════════════════════════════════════════════════╝
-```
 
 ## 🏆 Major Wins
 🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
@@ -67,35 +20,52 @@ Option 8 - Matrix Style:
 
 ## ✅ Built & Shipped
 
-- **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment
-- **🏡 Keya Agentic AI**: Real estate platform with geospatial intelligence  
-- **🎨 PaintSeg**: Diffusion models for automated image segmentation
-- **📊 Inbedder**: Advanced embedding techniques for knowledge retrieval
-- **🌌 Stellarium**: VR space odyssey with 107K+ real astronomical objects
+- **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment [Link ↗](https://github.com/PranavMishra17/SnakeAI-MLOps)
+
+- **🏡 Keya Agentic AI**: Real estate platform with geospatial intelligence  [Link ↗](https://github.com/Archit1706/cs532-project)
+
+- **🎨 Auto-PaintSeg**: Diffusion models for automated image segmentation [Link ↗](https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg)
+
+- **📊 Inbedder**: Advanced embedding techniques for knowledge retrieval [Link ↗](https://github.com/Hjhirp/InBedder)
+
+- **🌌 Stellarium**: VR space odyssey with 107K+ real astronomical objects [Link ↗](https://github.com/PranavMishra17/Stellarium-A-Space-Odyssey-VR-star-system)
 
 
 ## ⚡ The Arsenal
 ```python
 class PranavMishra:
     def __init__(self):
-        self.languages = ["Python", "C++", "JavaScript", "C#", "Java"]
-        self.ai_stack = ["PyTorch", "TensorFlow", "LangChain", "OpenAI", "Hugging Face"]
-        self.game_engines = ["Unity", "Unreal Engine", "SFML"]
-        self.specialties = ["NLP", "Computer Vision", "Multi-Agent Systems", "RL"]
-        self.cloud = ["Azure", "AWS", "Google Cloud"]
-        self.current_role = "Research Software Engineer @ UIC (Feb 2024)"
+        self.languages = ["Python", "C++", "JavaScript", "C#", "Java", "Rust", "TypeScript"]
+        self.ai_frameworks = ["PyTorch", "TensorFlow", "LangChain", "LibTorch", "Transformers"]
+        self.ai_platforms = ["OpenAI API", "Hugging Face", "Azure AI Services", "Pinecone"]
+        self.game_engines = ["Unity", "Unreal Engine 5", "SFML"]
+        self.web_stack = ["React", "Node.js", "Express.js", "Flask", "FastAPI", "Django"]
+        self.databases = ["PostgreSQL", "MongoDB", "Vector Databases", "Pinecone", "CosmosDB"]
+        self.cloud_platforms = ["Azure", "AWS", "Google Cloud Platform"]
+        self.devops = ["Docker", "Kubernetes", "Jenkins", "CI/CD", "Git"]
+        self.specialties = ["NLP", "Computer Vision", "Multi-Agent Systems", "RL", "RAG Systems", "Diffusion Models"]
+        
+        # Current Roles
+        self.current_role = "Research Software Engineer @ UIC V-ARE Labs (Feb 2024)"
         self.side_hustle = "AI/ML Intern @ WheelPrice Inc (July 2025)"
+        
     
     def mission(self):
         return "Bridging research and reality through intelligent systems 🤖⚡"
+    
 ```
 
 ## 🎮 Game Universe
-🐍 **SnakeAI**: 4 RL algorithms battling it out  
-🌌 **Stellarium**: VR space exploration with 107K+ real stars  
-🏓 **TableTennis**: Gesture-controlled realistic physics  
-🎯 **Unity Adventures**: Multiple game mechanics exploration  
-🚀 **Unreal Experiments**: High-fidelity interactive experiences  
+
+🌌 **Stellarium: A Space Odyssey**: Immersive CAVE VR with 107K+ astronomical objects and spatial computing  
+🤖 **AI Mafia Game**: Multi-agent social deduction with personality-driven AI and emergent behavior  
+🐍 **SnakeAI-MLOps**: 4 RL algorithms (Q-Learning, DQN, PPO, Actor-Critic) with C++/SFML + PyTorch pipeline  
+🎨 **SnAIder-Cut**: MIT XR Hackathon winner - Mixed Reality with generative AI scene modification  
+🖼️ **Virtual Van Gogh**: Web3 NFT museum with blockchain integration (1st place HINT 5.0)  
+🏥 **EQUITY**: UE5 medical simulation using MetaHuman for healthcare bias research  
+🌃 **Neon-Bites**: Cyberpunk delivery game with advanced physics and procedural generation  
+🔫 **Kill the Motherboard**: Networked multiplayer with custom protocols and lag compensation  
+🚀 **Project Outlive**: Mobile platformer with cloud leaderboards and real-time analytics
 
 ## 🌟 Featured Repos
 [![ResumeCraft](https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=ResumeCraft-Latex-resume-optimizer&theme=dark)](https://github.com/PranavMishra17/ResumeCraft-Latex-resume-optimizer)
@@ -112,16 +82,6 @@ class PranavMishra:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=dark&hide_border=true)
 
-## 🎨 When Not Coding
-```javascript
-const pranav = {
-    research: "Multi-agent AI systems",
-    games: "VR space exploration & physics simulations", 
-    tinkering: "Voice synthesis & gesture recognition",
-    learning: "Always exploring new AI frontiers",
-    vibe: "Building things that matter"
-}
-```
 
 ## 🎯 Contributions & Open Source
 - **🔬 Research**: MetaRAG (NeurIPS 2025 submission), Big5 Agents (AAAI 2025)
