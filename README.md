@@ -1,26 +1,78 @@
 # 🚀 Building Intelligence, One Algorithm at a Time
 
 ```ascii
-    ╭──────────────────────────────────────────────╮
-    │ Research Software Engineer @ UIC • AI/ML    │
-    │ Intern @ WheelPrice Inc • Game Developer     │
-    ╰──────────────────────────────────────────────╯
+┌─[ PRANAV PUSHKAR MISHRA ]─────────────────────────────┐
+│ ▶ AI/ML Engineer & Game Developer                     │
+│ ▶ Research Software Engineer @ UIC                    │
+│ ▶ Software Engineering Intern @ WheelPrice Inc        │
+└───────────────────────────────────────────────────────┘
 ```
 
-## 🏆 Recent Wins & Current Projects
+```ascii
+╔══════════════════════════════════════════════════════╗
+║ ░▒▓ Research Software Engineer @ UIC ▓▒░             ║
+║ ░▒▓ AI/ML Engineer • Game Developer ▓▒░              ║
+║ ░▒▓ Software Engineering Intern @ WheelPrice ▓▒░     ║
+╚══════════════════════════════════════════════════════╝
+```
 
-### ✅ Built & Shipped
-- **🤖 Big5 Agents**: Multi-agent collaborative AI for medical diagnosis
+```ascii
+    ╭─────[ PLAYER: PRANAV MISHRA ]─────╮
+    │ 🎮 Game Developer                  │
+    │ 🤖 AI/ML Engineer                  │
+    │ 🔬 Research Software Engineer      │
+    │ 💼 Software Engineering Intern     │
+    ╰───────────────────────────────────╯
+```
+
+Option 5 - Code Block Style:
+```ascii
+/* ================================================= */
+/*  PRANAV PUSHKAR MISHRA                           */
+/*  Research Software Engineer @ UIC               */
+/*  AI/ML Engineer | Game Developer                */
+/*  Software Engineering Intern @ WheelPrice Inc   */
+/* ================================================= */
+```
+
+Option 6 - Terminal Window:
+```ascii
+┌─ Terminal ─────────────────────────────── ─ □ × ┐
+│ $ whoami                                        │
+│ > Research Software Engineer @ UIC              │
+│ > AI/ML Engineer & Game Developer               │
+│ > Software Engineering Intern @ WheelPrice Inc  │
+│ $ █                                             │
+└─────────────────────────────────────────────────┘
+```
+
+Option 8 - Matrix Style:
+```ascii
+╔═══════════════════════════════════════════════════╗
+║ > Research_Software_Engineer.exe @ UIC            ║
+║ > AI_ML_Engineer.exe && Game_Developer.exe        ║
+║ > Software_Engineering_Intern.exe @ WheelPrice    ║
+╚═══════════════════════════════════════════════════╝
+```
+
+## 🏆 Major Wins
+🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
+📝 **NeurIPS 2025** - MetaRAG paper under review  
+📝 **AAAI 2025** - Big5 Agents framework submission as TeamMedAgents 
+
+## 🚧 Currently Building
+- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Character voice synthesis from pure text
+- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis with gesture recognition
+- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: Qwen2 audio model for voice training data
+
+## ✅ Built & Shipped
+
 - **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment
 - **🏡 Keya Agentic AI**: Real estate platform with geospatial intelligence  
 - **🎨 PaintSeg**: Diffusion models for automated image segmentation
 - **📊 Inbedder**: Advanced embedding techniques for knowledge retrieval
 - **🌌 Stellarium**: VR space odyssey with 107K+ real astronomical objects
 
-### 🚧 Currently Building
-- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Character voice synthesis from pure text
-- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis with gesture recognition
-- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: Qwen2 audio model for voice training data
 
 ## ⚡ The Arsenal
 ```python
@@ -77,12 +129,7 @@ const pranav = {
 - **🤝 Collaborations**: Virtual Van Gogh interactive art experience
 - **📝 Documentation**: Comprehensive project guides and technical insights
 
-## 🏆 Major Wins
-🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
-📝 **NeurIPS 2025** - MetaRAG paper under review  
-📝 **AAAI 2025** - Big5 Agents framework submission  
-🚀 **Production AI** - Multiple systems deployed in real-world environments  
-🎯 **Research Impact** - Novel multi-agent frameworks pushing AI boundaries  
+
 
 ## 🌐 Connect & Collaborate
 **🎯 Portfolio**: [portfolio-pranav-mishra-paranoid.vercel.app](https://portfolio-pranav-mishra-paranoid.vercel.app)  
