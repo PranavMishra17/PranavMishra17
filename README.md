@@ -7,7 +7,6 @@
 └───────────────────────────────────────────────────────┘
 ```
 
-## About me
 ```ascii
 ┌─[ Bio ]───────────────────────────────────────────────────────────┐
 |   Game Dev and full stack engineer with expertise in agentic AI,  |
