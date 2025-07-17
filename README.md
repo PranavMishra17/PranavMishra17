@@ -8,6 +8,8 @@
 ```
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Latest-1E90FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
+
 
 
 ```ascii
@@ -18,6 +20,7 @@
 |   research-driven and production-ready.                           |
 └───────────────────────────────────────────────────────────────────┘
 ```
+> *"I would rather vibe-code than not code at all"* ✨🚀
 
 ## 🏆 Major Wins
 🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
@@ -94,6 +97,13 @@ class PranavMishra:
 - 🚀 **Project Outlive**  
   Mobile platformer with cloud leaderboards, real-time analytics, and dynamic level content.
 
+### 🌟 Featured Projects
+
+- 🔍 [**Big5 Agents**](https://github.com/PranavMishra17/Big5-Agents) — Personality-driven agentic AI in Unity for social reasoning and gameplay
+- 🖼️ [**Virtual Van Gogh**](https://github.com/TheGreatFellow/virtual-van-gogh) — Web3 NFT art museum with blockchain-powered galleries
+- 🛠️ [**ResumeCraft**](https://github.com/PranavMishra17/ResumeCraft-Latex-resume-optimizer) — LaTeX-based resume generator with LLM suggestions
+
+
 
 ## 🌟 Featured Repos
 [![ResumeCraft](https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=ResumeCraft-Latex-resume-optimizer&theme=dark)](https://github.com/PranavMishra17/ResumeCraft-Latex-resume-optimizer)
@@ -120,9 +130,11 @@ class PranavMishra:
 
 
 ## 🌐 Connect & Collaborate
-**🎯 Portfolio**: [portfolio-pranav-mishra-paranoid.vercel.app](https://portfolio-pranav-mishra-paranoid.vercel.app)  
-**💼 LinkedIn**: [linkedin.com/in/pranavgamedev](https://www.linkedin.com/in/pranavgamedev/)  
-**📄 Resume**: [View Latest Resume](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Latest-1E90FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
+
 **📧 Opportunities**: Always interested in innovative AI projects  
 **🔬 Research**: Open to collaborations in multi-agent systems & NLP  
 
