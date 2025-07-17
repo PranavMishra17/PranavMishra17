@@ -3,7 +3,7 @@
 ┌─[ PRANAV PUSHKAR MISHRA ]─────────────────────────────┐
 │ ▶ AI/ML Engineer & Game Developer                     │
 │ ▶ Research Software Engineer @ UIC                    │
-│ ▶ Software Engineering Intern @ WheelPrice Inc        │
+│ ▶ AIML Intern @ WheelPrice Inc                        │
 └───────────────────────────────────────────────────────┘
 ```
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
