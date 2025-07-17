@@ -6,10 +6,14 @@
 │ ▶ AIML Intern @ WheelPrice Inc                        │
 └───────────────────────────────────────────────────────┘
 ```
-[![Portfolio](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
-[![Resume](https://img.shields.io/badge/Resume-View%20Latest-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
+[![Portfolio ↗](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+[![LinkedIn ↗](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+[![Resume ↗](https://img.shields.io/badge/Resume-View%20Latest-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
 
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+[![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
 
 
 ```ascii
