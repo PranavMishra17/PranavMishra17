@@ -108,12 +108,44 @@ class PranavMishra:
 [![Auto-Prompting PaintSeg](https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=Auto-Prompting-for-PaintSeg&theme=dark)](https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg)
 [![IVORY Platform](https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=MedRAG-Avatar-Platform-IVORY&theme=dark)](https://github.com/PranavMishra17/MedRAG-Avatar-Platform-IVORY)
 
+## 🌟 Featured Repos
+<!-- Custom 2-column layout using raw HTML for GitHub README compatibility -->
+<table>
+  <tr>
+    <td><a href="https://github.com/PranavMishra17/ResumeCraft-Latex-resume-optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=ResumeCraft-Latex-resume-optimizer&theme=dark" /></a></td>
+    <td><a href="https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval&theme=dark" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TheGreatFellow/virtual-van-gogh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheGreatFellow&repo=virtual-van-gogh&theme=dark" /></a></td>
+    <td><a href="https://github.com/PranavMishra17/Big5-Agents"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=Big5-Agents&theme=dark" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=Auto-Prompting-for-PaintSeg&theme=dark" /></a></td>
+    <td><a href="https://github.com/PranavMishra17/MedRAG-Avatar-Platform-IVORY"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=MedRAG-Avatar-Platform-IVORY&theme=dark" /></a></td>
+  </tr>
+</table>
+
+
 ## 📊 Stats & Activity
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=PranavMishra17.PranavMishra17&label=Unique%20Visitors&color=0ea5e9)
 [![GitHub followers](https://img.shields.io/github/followers/PranavMishra17?style=social)](https://github.com/PranavMishra17)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=dark&hide_border=true)
+
+
+<!-- Clean stat layout with emphasis on visuals and spacing -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PranavMishra17.PranavMishra17&label=Unique%20Visitors&color=0ea5e9" alt="visitors"/>
+  <a href="https://github.com/PranavMishra17">
+    <img src="https://img.shields.io/github/followers/PranavMishra17?style=social" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
 
 
 ## 🎯 Contributions & Open Source
