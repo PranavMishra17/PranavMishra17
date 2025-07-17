@@ -6,15 +6,11 @@
 │ ▶ AIML Intern @ WheelPrice Inc                        │
 └───────────────────────────────────────────────────────┘
 ```
-[![Portfolio ↗](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
-[![LinkedIn ↗](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
-[![Resume ↗](https://img.shields.io/badge/Resume-View%20Latest-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
-
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
 [![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
-
+[![YouTube](https://img.shields.io/badge/-YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parano1dgames/featured)
 
 ```ascii
 ┌─[ Bio ]───────────────────────────────────────────────────────────┐
@@ -120,7 +116,7 @@ class PranavMishra:
 
 
 ## 🎯 Contributions & Open Source
-- **🔬 Research**: MetaRAG (NeurIPS 2025 submission), Big5 Agents (AAAI 2025)
+- **🔬 Research**: MetaRAG (NeurIPS 2025 submission), TeamMed Agents (AAAI 2025)
 - **🎮 Game Dev**: Unity/Unreal projects with RL and physics simulations  
 - **🤝 Collaborations**: Virtual Van Gogh interactive art experience
 - **📝 Documentation**: Comprehensive project guides and technical insights
@@ -129,10 +125,10 @@ class PranavMishra:
 
 ## 🌐 Connect & Collaborate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
-[![Resume](https://img.shields.io/badge/Resume-View%20Latest-8A2BE2?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+[![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
+[![YouTube](https://img.shields.io/badge/-YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parano1dgames/featured)
 **📧 Opportunities**: Seeking full-time roles.
 **🔬 Research**: Open to collaborations in AI, NLP and Game design.  
 
