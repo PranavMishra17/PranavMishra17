@@ -8,8 +8,14 @@
 ```
 
 ## About me
-    Full-stack engineer and game developer with expertise in agentic AI, multi-agent systems, custom RAG, MLOps, and AWS. I build scalable web apps, immersive games, and VR experiences—research-driven and production-ready.
-
+```ascii
+┌─[ Bio ]───────────────────────────────────────────────────────────┐
+|   Game Dev and full stack engineer with expertise in agentic AI,  |
+|   multi-agent systems, custom RAG, MLOps, and AWS. I build        |
+|   scalable web apps, immersive games, and VR experiences-         |
+|   research-driven and production-ready.                           |
+└───────────────────────────────────────────────────────────────────┘
+```
 
 ## 🏆 Major Wins
 🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
