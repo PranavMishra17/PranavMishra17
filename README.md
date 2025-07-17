@@ -6,6 +6,9 @@
 │ ▶ Software Engineering Intern @ WheelPrice Inc        │
 └───────────────────────────────────────────────────────┘
 ```
+[![Portfolio](https://img.shields.io/badge/Portfolio-Pranav%20Mishra-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+
 
 ```ascii
 ┌─[ Bio ]───────────────────────────────────────────────────────────┐
@@ -62,18 +65,35 @@ class PranavMishra:
         return "Bridging research and reality through intelligent systems 🤖⚡"
     
 ```
-
 ## 🎮 Game Universe
 
-🌌 **Stellarium: A Space Odyssey**: Immersive CAVE VR with 107K+ astronomical objects and spatial computing  
-🤖 **AI Mafia Game**: Multi-agent social deduction with personality-driven AI and emergent behavior  
-🐍 **SnakeAI-MLOps**: 4 RL algorithms (Q-Learning, DQN, PPO, Actor-Critic) with C++/SFML + PyTorch pipeline  
-🎨 **SnAIder-Cut**: MIT XR Hackathon winner - Mixed Reality with generative AI scene modification  
-🖼️ **Virtual Van Gogh**: Web3 NFT museum with blockchain integration (1st place HINT 5.0)  
-🏥 **EQUITY**: UE5 medical simulation using MetaHuman for healthcare bias research  
-🌃 **Neon-Bites**: Cyberpunk delivery game with advanced physics and procedural generation  
-🔫 **Kill the Motherboard**: Networked multiplayer with custom protocols and lag compensation  
-🚀 **Project Outlive**: Mobile platformer with cloud leaderboards and real-time analytics
+- 🌌 **Stellarium: A Space Odyssey**  
+  Immersive CAVE VR experience featuring 107K+ real astronomical objects and spatial computing.
+
+- 🤖 **AI Mafia Game**  
+  Multi-agent social deduction game with emergent, personality-driven AI behavior.
+
+- 🐍 **SnakeAI-MLOps**  
+  Reinforcement learning sandbox implementing Q-Learning, DQN, PPO, and Actor-Critic using C++/SFML and PyTorch.
+
+- 🎨 **SnAIder-Cut** *(🏆 MIT XR Hackathon Winner)*  
+  Mixed Reality meets generative AI for real-time scene modification and immersive storytelling.
+
+- 🖼️ **Virtual Van Gogh** *(🥇 HINT 5.0 Winner)*  
+  Web3 NFT art museum with blockchain-based provenance and immersive gallery experiences.
+
+- 🏥 **EQUITY**  
+  UE5-based healthcare training simulation using MetaHuman to study diagnosis bias in clinical settings.
+
+- 🌃 **Neon-Bites**  
+  Cyberpunk-style delivery game with procedural city generation and advanced physics systems.
+
+- 🔫 **Kill the Motherboard**  
+  Networked multiplayer FPS with custom socket protocols and lag compensation for high-latency environments.
+
+- 🚀 **Project Outlive**  
+  Mobile platformer with cloud leaderboards, real-time analytics, and dynamic level content.
+
 
 ## 🌟 Featured Repos
 [![ResumeCraft](https://github-readme-stats.vercel.app/api/pin/?username=PranavMishra17&repo=ResumeCraft-Latex-resume-optimizer&theme=dark)](https://github.com/PranavMishra17/ResumeCraft-Latex-resume-optimizer)
