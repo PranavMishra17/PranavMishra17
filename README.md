@@ -12,6 +12,7 @@
 [![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
 [![YouTube](https://img.shields.io/badge/-YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parano1dgames/featured)
 
+> *"I would rather vibe-code than not code at all"* ✨🚀
 ```ascii
 ┌─[ Bio ]───────────────────────────────────────────────────────────┐
 |   Game Dev and full stack engineer with expertise in agentic AI,  |
@@ -20,7 +21,7 @@
 |   research-driven and production-ready.                           |
 └───────────────────────────────────────────────────────────────────┘
 ```
-> *"I would rather vibe-code than not code at all"* ✨🚀
+
 
 ## 🏆 Major Wins
 🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
@@ -28,15 +29,15 @@
 📝 **AAAI 2025** - Big5 Agents framework submission as TeamMedAgents 
 
 ## 🚧 Currently Building
-- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Character voice synthesis from pure text
-- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis with gesture recognition
-- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: Qwen2 audio model for voice training data
+- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Consistent character voice synthesis from pure textual descriptions
+- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis game with gesture recognition
+- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: New dataset for textual description to voice identity training 
 
 ## ✅ Built & Shipped
 
 - **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment [Link ↗](https://github.com/PranavMishra17/SnakeAI-MLOps)
 
-- **🏡 Keya Agentic AI**: Real estate platform with geospatial intelligence  [Link ↗](https://github.com/Archit1706/cs532-project)
+- **🏡 Keya Agentic AI**: Real estate platform with agentic intelligence  [Link ↗](https://github.com/Archit1706/cs532-project)
 
 - **🎨 Auto-PaintSeg**: Diffusion models for automated image segmentation [Link ↗](https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg)
 
