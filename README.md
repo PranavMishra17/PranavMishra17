@@ -29,9 +29,9 @@
 📝 **AAAI 2025** - Big5 Agents framework submission as TeamMedAgents 
 
 ## 🚧 Currently Building
-- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Consistent character voice synthesis from pure textual descriptions
-- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis game with gesture recognition
-- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: New dataset for textual description to voice identity training 
+- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Consistent character voice synthesis from pure textual descriptions.
+- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis game with gesture recognition and all realistic spin nad movement.
+- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: New dataset for textual description to voice identity training, using Alibaba's Qwen2-Audio model. 
 
 ## ✅ Built & Shipped
 
