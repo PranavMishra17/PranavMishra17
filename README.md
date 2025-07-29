@@ -1,6 +1,6 @@
 # llm.invoke("Generate a bio")
 ```ascii
-┌─[ PRANAV PUSHKAR MISHRA ]─────────────────────────────┐
+┌─[ PRANAV MISHRA ]─────────────────────────────────────┐
 │ ▶ AI/ML Engineer & Game Developer                     │
 │ ▶ Research Software Engineer @ UIC                    │
 │ ▶ AIML Intern @ WheelPrice Inc                        │
