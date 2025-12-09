@@ -12,6 +12,7 @@
 [![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
 [![YouTube](https://img.shields.io/badge/-YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parano1dgames/featured)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Paranoiid)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_Twn_owAAAAJ&scilu=&scisig=AKwN59oAAAAAaTd0akosA3b4zvdt7R-Fn9j8dJY&gmla=AElLoL3rD71Kw3MZt63JgrSnHScxxn-JFSdJETWeW9OlmZkZDvEiTWCxDQnRngDsZPPiJibA6cAq0LgzU6Q4M4onOeJRXGYRLs40oB0&sciund=9936598523871810287)
 > *"I would rather vibe-code than not code at all"* ✨🚀
 ```ascii
 ┌─[ Bio ]───────────────────────────────────────────────────────────┐
