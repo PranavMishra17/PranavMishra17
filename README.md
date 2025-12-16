@@ -27,11 +27,15 @@
 
 ## 🏆 Major Wins
 
-    🥇 **[SnAIder-Cut](https://codeberg.org/reality-hack-2024/snAIder)** - Meta Quest 3 app | Won a special track at MIT XR Hackathon, Jan 2024, Boston, MA 
-    📝 **ICML 2026 (in prep)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents) 
-    📝 **PAKDD 2026 (under review)** - Big5 Agents framework submission as TeamMedAgents [Link ↗](https://github.com/PranavMishra17/Big5-Agents) 
-    🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections 
-    🕴🏼 **[IEEE 2025](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, US 
+🥇 **[SnAIder-Cut](https://codeberg.org/reality-hack-2024/snAIder)** - Meta Quest 3 app | Won a special track at MIT XR Hackathon, Jan 2024, Boston, MA  
+
+📝 **ICML 2026 (in prep)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents)  
+
+📝 **PAKDD 2026 (under review)** - Big5 Agents framework submission as TeamMedAgents [Link ↗](https://github.com/PranavMishra17/Big5-Agents)  
+
+🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections  
+
+🕴🏼 **[IEEE 2025](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, US
 
 
 ## ✅ Built & Shipped
