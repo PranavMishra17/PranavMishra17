@@ -14,6 +14,7 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Paranoiid)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_Twn_owAAAAJ&scilu=&scisig=AKwN59oAAAAAaTd0akosA3b4zvdt7R-Fn9j8dJY&gmla=AElLoL3rD71Kw3MZt63JgrSnHScxxn-JFSdJETWeW9OlmZkZDvEiTWCxDQnRngDsZPPiJibA6cAq0LgzU6Q4M4onOeJRXGYRLs40oB0&sciund=9936598523871810287)
 > *"I would rather vibe-code than not code at all"* ✨🚀
+
 ```ascii
 ┌─[ Bio ]───────────────────────────────────────────────────────────┐
 |   Game Dev and full stack engineer with expertise in agentic AI,  |
@@ -25,24 +26,22 @@
 
 
 ## 🏆 Major Wins
-🥇 **[MIT XR Hackathon Winner](https://codeberg.org/reality-hack-2024/snAIder)** - snAIder: Meta Quest 3 VR experience  
-📝 **NeurIPS 2025** - MetaRAG paper under review  
-📝 **AAAI 2025** - Big5 Agents framework submission as TeamMedAgents 
+🥇 **[SnAIder-Cut](https://codeberg.org/reality-hack-2024/snAIder)** - Meta Quest 3 app | Won a special track at MIT XR Hackathon, Jan 2024, Boston, MA
+📝 **ICML 2026 (in prep)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents) 
+📝 **PAKDD 2026 (under review)** - Big5 Agents framework submission as TeamMedAgents [Link ↗](https://github.com/PranavMishra17/Big5-Agents) 
+🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections
+🕴🏼 **[IEEE 2025](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, US
 
-## 🚧 Currently Building
-- **🎙️ [VoiceForge](https://github.com/PranavMishra17/VoiceForge--Forge-Character-Voices-from-Pure-Text)**: Consistent character voice synthesis from pure textual descriptions.
-- **🏓 [PongPong](https://github.com/PranavMishra17/PongPong)**: Unity table tennis game with gesture recognition and all realistic spin nad movement.
-- **🎯 [VoicePersona Dataset](https://github.com/PranavMishra17/globe2-qwen2-voice-describer)**: New dataset for textual description to voice identity training, using Alibaba's Qwen2-Audio model. 
 
 ## ✅ Built & Shipped
 
+- **🗣️ MockFlow.ai 🌟** : AI-Powered Mock Interview Platform with Real-Time Voice Interaction  [Link ↗](https://github.com/PranavMishra17/MockFlow-AI)
+- 
+- **📰 Resume-Craft-Pro 🌟**: A full-stack AI web app for Resume customization with intelligent agentic architecture [Link ↗](https://github.com/PranavMishra17/Resume-Craft-Pro)
+
 - **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment [Link ↗](https://github.com/PranavMishra17/SnakeAI-MLOps)
 
-- **🏡 Keya Agentic AI**: Real estate platform with agentic intelligence  [Link ↗](https://github.com/Archit1706/cs532-project)
-
 - **🎨 Auto-PaintSeg**: Diffusion models for automated image segmentation [Link ↗](https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg)
-
-- **📊 Inbedder**: Advanced embedding techniques for knowledge retrieval [Link ↗](https://github.com/Hjhirp/InBedder)
 
 - **🌌 Stellarium**: VR space odyssey with 107K+ real astronomical objects [Link ↗](https://github.com/PranavMishra17/Stellarium-A-Space-Odyssey-VR-star-system)
 
@@ -51,23 +50,71 @@
 ```python
 class PranavMishra:
     def __init__(self):
-        self.languages = ["Python", "C++", "JavaScript", "C#", "Java", "Rust", "TypeScript"]
-        self.ai_frameworks = ["PyTorch", "TensorFlow", "LangChain", "LibTorch", "Transformers"]
-        self.ai_platforms = ["OpenAI API", "Hugging Face", "Azure AI Services", "Pinecone"]
-        self.game_engines = ["Unity", "Unreal Engine 5", "SFML"]
-        self.web_stack = ["React", "Node.js", "Express.js", "Flask", "FastAPI", "Django"]
-        self.databases = ["PostgreSQL", "MongoDB", "Vector Databases", "Pinecone", "CosmosDB"]
-        self.cloud_platforms = ["Azure", "AWS", "Google Cloud Platform"]
-        self.devops = ["Docker", "Kubernetes", "Jenkins", "CI/CD", "Git"]
-        self.specialties = ["NLP", "Computer Vision", "Multi-Agent Systems", "RL", "RAG Systems", "Diffusion Models"]
+        # Core Languages
+        self.languages = ["Python", "C++", "JavaScript/TypeScript", "C#", "Java", "Rust"]
         
-        # Current Roles
-        self.current_role = "Research Software Engineer @ UIC V-ARE Labs (Feb 2024)"
-        self.side_hustle = "AI/ML Intern @ WheelPrice Inc (July 2025)"
+        # AI/ML Stack
+        self.ai_frameworks = ["PyTorch", "TensorFlow", "LangChain", "LangGraph", "LibTorch", "Transformers"]
+        self.ai_platforms = ["OpenAI API", "Anthropic Claude", "Google Gemini", "Azure OpenAI", "Hugging Face"]
+        self.mlops = ["vLLM", "Docker", "GitHub Actions", "Model Versioning", "Experiment Tracking"]
+        self.specialties = [
+            "Multi-Agent Systems", 
+            "RAG Architectures", 
+            "Computer Vision", 
+            "Reinforcement Learning",
+            "NLP/LLMs",
+            "Small Language Models",
+            "Healthcare AI"
+        ]
         
-    
+        # Full-Stack & Infrastructure
+        self.web_stack = {
+            "frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
+            "backend": ["FastAPI", "Node.js", "Flask", "Django", "Express.js"],
+            "realtime": ["WebSockets", "Azure Speech Services", "Streaming APIs"]
+        }
+        self.databases = ["PostgreSQL", "MongoDB", "Pinecone", "CosmosDB", "Redis", "pgvector"]
+        self.cloud_platforms = ["Azure", "AWS (EC2, S3, Lambda)", "GCP", "Railway", "Vercel"]
+        self.devops = ["Docker", "Kubernetes", "CI/CD Pipelines", "Git", "Infrastructure as Code"]
+        
+        # Game/XR Development
+        self.game_engines = ["Unity (C#)", "Unreal Engine 5 (C++)", "SFML", "WebXR"]
+        self.xr_experience = "MIT Reality Hack 2024 Winner 🏆"
+        
+        # Research & Production Experience
+        self.current_work = {
+            "research": "UIC V-ARE Labs - Healthcare AI, VR/AR Medical Training",
+            "industry": "WheelPrice (Techstars) - Production CV/ML Systems",
+            "academic": "AAAI 2025 Submission (First Author) - Multi-Agent Medical AI"
+        }
+        
+        # Notable Projects
+        self.portfolio_highlights = [
+            "TeamMedAgents: Multi-agent medical AI (7/8 benchmark improvements)",
+            "SLM-TeamMedAgents: Extended to Small Language Models (Google ADK)",
+            "MetaRAG: Enterprise RAG (10K+ docs/hour, Kafka pipelines)",
+            "IVORY: Production RAG platform on Azure (medical education)",
+            "ClauseCraft: Agentic document editor (Gemini + MCP)",
+            "Flow Planner: Autonomous UI workflow capture (Browser-Use + Claude)",
+            "SnakeAI-MLOps: Complete MLOps pipeline (5x training speedup)",
+            "Patient Care Automation: HIPAA-compliant healthcare workflows"
+        ]
+        
+        # What Drives Me
+        self.builder_mindset = "Ship fast. Own outcomes. Learn relentlessly."
+        self.work_style = "Take ownership beyond my role. Figure it out. Deliver results."
+        
     def mission(self):
-        return "Bridging research and reality through intelligent systems 🤖⚡"
+        return "Building AI systems that solve real problems - from research to production 🚀🤖"
+    
+    def get_in_touch(self):
+        return {
+            "email": "pmishr23@uic.edu",
+            "phone": "773-280-4615",
+            "portfolio": "https://portfolio-pranav-mishra-paranoid.vercel.app",
+            "google scholar": "https://scholar.google.com/citations?hl=en&authuser=1&user=_Twn_owAAAAJ",
+            "linkedin": "https://linkedin.com/in/pranavgamedev"
+        }
     
 ```
 
