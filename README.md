@@ -24,18 +24,39 @@
 └───────────────────────────────────────────────────────────────────┘
 ```
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=PRANAV+MISHRA;AI%2FML+Engineer+%7C+Multi-Agent+Systems;Production+AI+%7C+Game+Dev+%7C+Research" alt="Typing SVG" />
+</h1>
 
-## 🏆 Major Wins
+<div align="center">
 
-🕴🏼 **[IEEE 2026](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - (ACCEPTED) Research in enterprise RAG systems with Metadata Enrichment. Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, USA - 2025
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
+[![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
+[![YouTube](https://img.shields.io/badge/-YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parano1dgames/featured)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Paranoiid)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_Twn_owAAAAJ)
 
-🥇 **[SnAIder-Cut](https://codeberg.org/reality-hack-2024/snAIder)** - Meta Quest 3 app | Won a special track at MIT XR Hackathon, Jan 2024, Boston, MA  
+> *"I would rather vibe-code than not code at all"* ✨🚀
 
-📝 **ICML 2026 (under review)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents)  
+</div>
 
-📝 **PAKDD 2026 (under review)** - Big5 Agents framework submission as TeamMedAgents [Link ↗](https://github.com/PranavMishra17/Big5-Agents)  
+---
 
-🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections  
+## 📊 GitHub Activity
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PranavMishra17/PranavMishra17/output/github-snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 
 ## 🚀 Currently Building
@@ -62,6 +83,20 @@
 </td>
 </tr>
 </table>
+
+
+
+## 🏆 Major Wins
+
+🕴🏼 **[IEEE 2026](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - (ACCEPTED) Research in enterprise RAG systems with Metadata Enrichment. Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, USA - 2025
+
+🥇 **[SnAIder-Cut](https://codeberg.org/reality-hack-2024/snAIder)** - Meta Quest 3 app | Won a special track at MIT XR Hackathon, Jan 2024, Boston, MA  
+
+📝 **ICML 2026 (under review)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents)  
+
+📝 **PAKDD 2026 (under review)** - Big5 Agents framework submission as TeamMedAgents [Link ↗](https://github.com/PranavMishra17/Big5-Agents)  
+
+🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections  
 
 
 ## ✅ Built & Shipped
