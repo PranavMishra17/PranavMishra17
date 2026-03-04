@@ -38,47 +38,63 @@
 🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections  
 
 
-## Currently Building
+## 🚀 Currently Building
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-
-<div style="border: 2px solid #9d4edd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);">
-
-### 🎮 SoulEngine
-**Stateless NPC Intelligence Framework**
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-soulengine.dev-9d4edd?style=for-the-badge)](https://soulengine.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavMishra17/SoulEngine)
-
-Game NPCs with layered memory, personality evolution, and multi-modal voice interaction. Characters that remember player actions, hold grudges, and take agency through MCP-based tool systems—lock doors, call guards, flee danger.
-
-**Tech:** TypeScript, Multi-LLM (Gemini/OpenAI/Claude/Grok), STT/TTS, Supabase, BYOK architecture
-
-**Key Innovation:** Stateless intelligence—NPCs are YAML files that become sentient when queried. No persistent processes, no complex databases.
-
-[Explore Project →](https://github.com/PranavMishra17/SoulEngine)
-
+<div align="center">
+  <a href="https://github.com/PranavMishra17/SoulEngine">
+    <img src="https://img.shields.io/badge/🎮_SoulEngine-Stateless_NPC_Intelligence-9d4edd?style=for-the-badge&logoColor=white" alt="SoulEngine" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PranavMishra17/MockFlow-AI">
+    <img src="https://img.shields.io/badge/🎤_MockFlow--AI-Real--Time_Voice_Interview_Platform-00d9ff?style=for-the-badge&logoColor=white" alt="MockFlow-AI" height="60"/>
+  </a>
 </div>
 
-<div style="border: 2px solid #00d9ff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0f2027 0%, #203a43 100%);">
-
-### 🎤 MockFlow-AI
-**Real-Time Voice Interview Platform**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavMishra17/MockFlow-AI)
-[![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-00d9ff?style=for-the-badge)](https://github.com/PranavMishra17/MockFlow-AI)
-
-Production voice AI system with sub-400ms latency using streaming STT→LLM→TTS pipelines. FSM-driven interview stages, RAG-based context injection, and automated feedback with transcript citations.
-
-**Tech:** React/TypeScript, FastAPI, LiveKit, Microservices FSM, Cloud Deployment
-
-**Key Innovation:** Concurrent streaming architecture—STT partials feed LLM before user finishes speaking, TTS starts on first token. Explicit state management prevents agent drift.
-
-[Explore Project →](https://github.com/PranavMishra17/MockFlow-AI)
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <sub>Game NPCs with memory, personality evolution & MCP-based agency</sub>
+      </td>
+      <td width="50%" align="center">
+        <sub>Sub-400ms voice AI with streaming STT→LLM→TTS pipelines</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-</div>
+
+## 🚀 Currently Building
+
+<p align="center">
+  <a href="https://github.com/PranavMishra17/SoulEngine">
+    <kbd><img src="https://img.shields.io/badge/🎮_SoulEngine-9d4edd?style=for-the-badge" height="80" width="300"/></kbd>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PranavMishra17/MockFlow-AI">
+    <kbd><img src="https://img.shields.io/badge/🎤_MockFlow--AI-00d9ff?style=for-the-badge" height="80" width="300"/></kbd>
+  </a>
+</p>
+
+<p align="center">
+  <span style="display:inline-block; width:300px; text-align:center;">Stateless NPC intelligence with memory & agency</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:300px; text-align:center;">Real-time voice interview with sub-400ms latency</span>
+</p>
+
+## 🚀 Currently Building
+
+<p align="center">
+<a href="https://github.com/PranavMishra17/SoulEngine"><img src="https://custom-icon-badges.demolab.com/badge/SoulEngine-9d4edd?style=for-the-badge&logo=game&logoColor=white" height="70"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PranavMishra17/MockFlow-AI"><img src="https://custom-icon-badges.demolab.com/badge/MockFlow--AI-00d9ff?style=for-the-badge&logo=mic&logoColor=white" height="70"></a>
+</p>
+
+<p align="center">
+<sub>⬆️ Stateless NPC intelligence with memory & MCP-based agency</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>⬆️ Real-time voice interview platform with sub-400ms latency</sub>
+</p>
 
 ## ✅ Built & Shipped
 
