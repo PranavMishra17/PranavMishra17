@@ -40,25 +40,6 @@
 
 ## 🚀 Currently Building
 
-<p align="center">
-  <a href="https://github.com/PranavMishra17/SoulEngine">
-    <kbd><img src="https://img.shields.io/badge/🎮_SoulEngine-9d4edd?style=for-the-badge" height="80" width="300"/></kbd>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PranavMishra17/MockFlow-AI">
-    <kbd><img src="https://img.shields.io/badge/🎤_MockFlow--AI-00d9ff?style=for-the-badge" height="80" width="300"/></kbd>
-  </a>
-</p>
-
-<p align="center">
-  <span style="display:inline-block; width:300px; text-align:center;">Stateless NPC intelligence with memory & agency</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display:inline-block; width:300px; text-align:center;">Real-time voice interview with sub-400ms latency</span>
-</p>
-
-
-## 🚀 Currently Building
-
 <table align="center">
 <tr>
 <td width="50%" align="center">
@@ -84,12 +65,12 @@
 
 
 ## ✅ Built & Shipped
-
-- **🗣️ MockFlow.ai 🌟** : AI-Powered Mock Interview Platform with Real-Time Voice Interaction  [Link ↗](https://github.com/PranavMishra17/MockFlow-AI)
   
 - **📰 Resume-Craft-Pro 🌟**: A full-stack AI web app for Resume customization with intelligent agentic architecture [Link ↗](https://github.com/PranavMishra17/Resume-Craft-Pro)
 
 - **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment [Link ↗](https://github.com/PranavMishra17/SnakeAI-MLOps)
+
+- **🗣️ Voice-Persona**: Dataset for character consistency in voice synthesis, generated using advanced audio-language model Qwen2-Audio-7B [Link ↗](https://github.com/PranavMishra17/VoicePersona-Dataset)
 
 - **🎨 Auto-PaintSeg**: Diffusion models for automated image segmentation [Link ↗](https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg)
 
