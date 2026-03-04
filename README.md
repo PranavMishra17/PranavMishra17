@@ -149,41 +149,10 @@ class PranavMishra:
     
 ```
 
-<!-- GitHub Stats Card -->
-<!-- GitHub Stats - try different themes if not showing -->
-![Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=tokyonight)
-
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd)
-
-<!-- Detailed Stats -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff" />
-</p>
-
 <div align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff&count_private=true&include_all_commits=true" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
 </div>
-
-<!-- Top Languages -->
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=tokyonight)
-
-
-
-<!-- GitHub Trophies -->
-<!-- Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=PranavMishra17&theme=darkhub&no-frame=true&row=1)
-
 
 ## 🛠️ Tech Stack
 
@@ -252,8 +221,6 @@ class PranavMishra:
 ![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-00A67E?style=for-the-badge)
 
 
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical)
-
-<!-- Add this to a GitHub Actions workflow -->
-![Snake animation](https://github.com/PranavMishra17/PranavMishra17/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PranavMishra17/PranavMishra17/output/github-snake.svg" alt="Snake animation" />
+</div>
