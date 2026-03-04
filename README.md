@@ -1,8 +1,9 @@
 <div align="center">
 
 ```python
-# llm.invoke("Generate a bio")
+llm.invoke("Generate a bio")
 ```
+</div>
 
 <h1>PRANAV MISHRA</h1>
 
@@ -26,14 +27,10 @@
 
 </div>
 
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PranavMishra17/PranavMishra17/output/github-snake.svg" alt="Snake animation" />
 </div>
-
----
-
 
 ## 🚀 Currently Building
 
@@ -60,7 +57,7 @@
 </tr>
 </table>
 
-
+---
 
 ## 🏆 Major Wins
 
