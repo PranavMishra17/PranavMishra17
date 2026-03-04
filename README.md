@@ -1,32 +1,10 @@
 # llm.invoke("Generate a bio")
-```ascii
-┌─[ PRANAV MISHRA ]─────────────────────────────────────┐
-│ ▶ AI/ML Engineer & Game Developer                     │
-│ ▶ Research Software Engineer @ UIC                    │
-│ ▶ AIML Intern @ WheelPrice Inc                        │
-└───────────────────────────────────────────────────────┘
-```
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgamedev/)
-[![Resume](https://img.shields.io/badge/-Resume-4B0082?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-pranav-mishra-paranoid.vercel.app/resume)
-[![YouTube](https://img.shields.io/badge/-YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@parano1dgames/featured)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Paranoiid)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_Twn_owAAAAJ&scilu=&scisig=AKwN59oAAAAAaTd0akosA3b4zvdt7R-Fn9j8dJY&gmla=AElLoL3rD71Kw3MZt63JgrSnHScxxn-JFSdJETWeW9OlmZkZDvEiTWCxDQnRngDsZPPiJibA6cAq0LgzU6Q4M4onOeJRXGYRLs40oB0&sciund=9936598523871810287)
-> *"I would rather vibe-code than not code at all"* ✨🚀
+<h1 align="center">PRANAV MISHRA</h1>
 
-```ascii
-┌─[ Bio ]───────────────────────────────────────────────────────────┐
-|   Game Dev and full stack engineer with expertise in agentic AI,  |
-|   multi-agent systems, custom RAG, MLOps, and AWS. I build        |
-|   scalable web apps, immersive games, and VR experiences-         |
-|   research-driven and production-ready.                           |
-└───────────────────────────────────────────────────────────────────┘
-```
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=PRANAV+MISHRA;AI%2FML+Engineer+%7C+Multi-Agent+Systems;Production+AI+%7C+Game+Dev+%7C+Research" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=AI%2FML+Engineer+%7C+Multi-Agent+Systems+Researcher;Production+AI+%7C+Full-Stack+%7C+Game+Development;Building+Agentic+Systems+That+Actually+Ship" alt="Typing SVG" />
+</p>
 
 <div align="center">
 
@@ -42,8 +20,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Activity
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd" />
