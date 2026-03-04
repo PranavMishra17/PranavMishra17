@@ -1,9 +1,13 @@
 <div align="center">
+
 ```python
 llm.invoke("Generate a bio")
 ```
+</div>
 
+<div align="center">
 <h1>PRANAV MISHRA</h1>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=AI%2FML+Engineer+%7C+Multi-Agent+Systems+Researcher;Production+AI+%7C+Full-Stack+%7C+Game+Development;Building+Agentic+Systems+That+Actually+Ship" alt="Typing SVG" />
