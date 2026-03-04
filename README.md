@@ -1,4 +1,10 @@
-<h1 align="center">PRANAV MISHRA</h1>
+<div align="center">
+
+```python
+# llm.invoke("Generate a bio")
+```
+
+<h1>PRANAV MISHRA</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=9D4EDD&center=true&vCenter=true&width=940&lines=AI%2FML+Engineer+%7C+Multi-Agent+Systems+Researcher;Production+AI+%7C+Full-Stack+%7C+Game+Development;Building+Agentic+Systems+That+Actually+Ship" alt="Typing SVG" />
@@ -13,7 +19,8 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Paranoiid)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_Twn_owAAAAJ)
 
-> *"I would rather vibe-code than not code at all"* ✨🚀
+<p><em>"In order to keep up with everything AI, you need to be unemployed."</em> </p>
+<p><em>"In order to keep paying for the tokens, you need to be employed."</em> </p>
 
 </div>
 
