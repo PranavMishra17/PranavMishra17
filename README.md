@@ -76,6 +76,7 @@ llm.invoke("Generate a bio")
 
 🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections  
 
+---
 
 ## ✅ Built & Shipped
   
@@ -83,7 +84,7 @@ llm.invoke("Generate a bio")
 
 - **🐍 SnakeAI-MLOps**: Complete RL pipeline with 4 algorithms + deployment [Link ↗](https://github.com/PranavMishra17/SnakeAI-MLOps)
 
-- **🗣️ Voice-Persona**: Dataset for character consistency in voice synthesis, generated using advanced audio-language model Qwen2-Audio-7B [Link ↗](https://github.com/PranavMishra17/VoicePersona-Dataset)
+- **🗣️ [Voice-Persona](https://github.com/PranavMishra17/VoicePersona-Dataset)**: Dataset for character consistency in voice synthesis, generated with audio-language model Qwen2-Audio-7B 
 
 - **🎨 Auto-PaintSeg**: Diffusion models for automated image segmentation [Link ↗](https://github.com/PranavMishra17/Auto-Prompting-for-PaintSeg)
 
