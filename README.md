@@ -149,4 +149,66 @@ class PranavMishra:
     
 ```
 
+<!-- GitHub Stats Card -->
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff)
 
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd)
+
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra17&theme=react-dark&hide_border=true&bg_color=0D1117&color=9d4edd&line=00d9ff&point=FFFFFF)
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=PranavMishra17&color=9d4edd&style=flat-square&label=Profile+Views)
+
+<!-- GitHub Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=PranavMishra17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<!-- Detailed Stats -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff" />
+</p>
+
+<!-- WakaTime Stats (requires setup) -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PranavMishra17&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=835&lines=AI%2FML+Engineer+%7C+Multi-Agent+Systems+Researcher;Building+Production+Agentic+AI+%7C+Voice+AI+%7C+Game+Dev;AAAI+2025+%7C+IEEE+Published+%7C+MIT+XR+Hackathon+Winner)](https://git.io/typing-svg)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical)
+
+<!-- Add this to a GitHub Actions workflow -->
+![Snake animation](https://github.com/PranavMishra17/PranavMishra17/blob/output/github-contribution-grid-snake.svg)
