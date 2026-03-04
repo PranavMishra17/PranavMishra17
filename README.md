@@ -19,8 +19,10 @@
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Paranoiid)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_Twn_owAAAAJ)
 
-<p><em>"In order to keep up with everything AI, you need to be unemployed."</em> </p>
-<p><em>"In order to keep paying for the tokens, you need to be employed."</em> </p>
+<p align="center">
+  <em>"In order to keep up with everything AI, you need to be unemployed.<br/>
+  In order to keep paying for the tokens, you need to be employed."</em>
+</p>
 
 </div>
 
