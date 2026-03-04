@@ -150,52 +150,12 @@ class PranavMishra:
 ```
 
 <!-- GitHub Stats Card -->
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff)
+<!-- GitHub Stats - try different themes if not showing -->
+![Stats](https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=tokyonight)
+
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd)
-
-<!-- Contribution Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavMishra17&theme=react-dark&hide_border=true&bg_color=0D1117&color=9d4edd&line=00d9ff&point=FFFFFF)
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=PranavMishra17&color=9d4edd&style=flat-square&label=Profile+Views)
-
-<!-- GitHub Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=PranavMishra17&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!-- Detailed Stats -->
 <p align="center">
@@ -203,10 +163,95 @@ class PranavMishra:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff" />
 </p>
 
-<!-- WakaTime Stats (requires setup) -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PranavMishra17&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd)
+<div align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff&count_private=true&include_all_commits=true" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=835&lines=AI%2FML+Engineer+%7C+Multi-Agent+Systems+Researcher;Building+Production+Agentic+AI+%7C+Voice+AI+%7C+Game+Dev;AAAI+2025+%7C+IEEE+Published+%7C+MIT+XR+Hackathon+Winner)](https://git.io/typing-svg)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PranavMishra17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=00d9ff&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd" />
+</div>
+
+<!-- Top Languages -->
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMishra17&layout=compact&theme=tokyonight)
+
+
+
+<!-- GitHub Trophies -->
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=PranavMishra17&theme=darkhub&no-frame=true&row=1)
+
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### AI/ML Frameworks & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-430098?style=for-the-badge&logo=v&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Game Development & XR
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-FF3E00?style=for-the-badge&logo=webxr&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+
+### Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Specialized AI Domains
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-9d4edd?style=for-the-badge)
+![RAG Architecture](https://img.shields.io/badge/RAG_Architecture-00d9ff?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FF6F61?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge)
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-00A67E?style=for-the-badge)
+
+
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical)
 
