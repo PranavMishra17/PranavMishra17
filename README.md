@@ -27,16 +27,58 @@
 
 ## 🏆 Major Wins
 
+🕴🏼 **[IEEE 2026](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - (ACCEPTED) Research in enterprise RAG systems with Metadata Enrichment. Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, USA - 2025
+
 🥇 **[SnAIder-Cut](https://codeberg.org/reality-hack-2024/snAIder)** - Meta Quest 3 app | Won a special track at MIT XR Hackathon, Jan 2024, Boston, MA  
 
-📝 **ICML 2026 (in prep)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents)  
+📝 **ICML 2026 (under review)** - Multi-agent system using SLMs with modular teamwork components [Link ↗](https://github.com/PranavMishra17/SLM-TeamMedAgents)  
 
 📝 **PAKDD 2026 (under review)** - Big5 Agents framework submission as TeamMedAgents [Link ↗](https://github.com/PranavMishra17/Big5-Agents)  
 
 🥇 **[HINT 5.0 Hackathon Winner](https://github.com/TheGreatFellow/virtual-van-gogh)** - Virtual van Gogh: Virtual art museum for NFT collections  
 
-🕴🏼 **[IEEE 2025](https://github.com/PranavMishra17/Metadata-Enrichment-with-LLMs-for-RAGs-Internal-Knowledge-Retrieval)** - Presented MetaRAG paper at Informs+ Conference at Indianapolis, IN, US
 
+## Currently Building
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+
+<div style="border: 2px solid #9d4edd; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);">
+
+### 🎮 SoulEngine
+**Stateless NPC Intelligence Framework**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-soulengine.dev-9d4edd?style=for-the-badge)](https://soulengine.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavMishra17/SoulEngine)
+
+Game NPCs with layered memory, personality evolution, and multi-modal voice interaction. Characters that remember player actions, hold grudges, and take agency through MCP-based tool systems—lock doors, call guards, flee danger.
+
+**Tech:** TypeScript, Multi-LLM (Gemini/OpenAI/Claude/Grok), STT/TTS, Supabase, BYOK architecture
+
+**Key Innovation:** Stateless intelligence—NPCs are YAML files that become sentient when queried. No persistent processes, no complex databases.
+
+[Explore Project →](https://github.com/PranavMishra17/SoulEngine)
+
+</div>
+
+<div style="border: 2px solid #00d9ff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #0f2027 0%, #203a43 100%);">
+
+### 🎤 MockFlow-AI
+**Real-Time Voice Interview Platform**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavMishra17/MockFlow-AI)
+[![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-00d9ff?style=for-the-badge)](https://github.com/PranavMishra17/MockFlow-AI)
+
+Production voice AI system with sub-400ms latency using streaming STT→LLM→TTS pipelines. FSM-driven interview stages, RAG-based context injection, and automated feedback with transcript citations.
+
+**Tech:** React/TypeScript, FastAPI, LiveKit, Microservices FSM, Cloud Deployment
+
+**Key Innovation:** Concurrent streaming architecture—STT partials feed LLM before user finishes speaking, TTS starts on first token. Explicit state management prevents agent drift.
+
+[Explore Project →](https://github.com/PranavMishra17/MockFlow-AI)
+
+</div>
+
+</div>
 
 ## ✅ Built & Shipped
 
