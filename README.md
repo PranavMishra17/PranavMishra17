@@ -103,18 +103,16 @@ llm.invoke("Generate a bio")
 
 ## Resume
 
-[![Resume Preview](./assets/resume-preview.svg)](./RESUME%20Pranav_Mishra.pdf)
-
-[**Download / View Resume PDF**](./RESUME%20Pranav_Mishra.pdf)
+<a href="./RESUME%20Pranav_Mishra.pdf">
+  <img src="./assets/resume.png" alt="Resume Banner" width="100%" />
+</a>
 
 
 ## Portfolio (Live)
 
-[![Portfolio Preview](./assets/portfolio-preview.svg)](https://portfolio-pranav-mishra-paranoid.vercel.app)
-
-[**Open Live Portfolio**](https://portfolio-pranav-mishra-paranoid.vercel.app)
-
-> GitHub README blocks interactive embeds (`iframe`) and does not reliably render inline PDFs, so these are clickable preview cards.
+<a href="https://portfolio-pranav-mishra-paranoid.vercel.app">
+  <img src="./assets/portfolio.png" alt="Portfolio Banner" width="100%" />
+</a>
 
 ---
 
