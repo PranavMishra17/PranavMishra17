@@ -98,6 +98,20 @@ llm.invoke("Generate a bio")
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
 </div>
 
+
+---
+
+## Resume
+
+[Download / View `RESUME Pranav_Mishra.pdf`](./RESUME%20Pranav_Mishra.pdf)
+
+
+## Portfolio (Live)
+
+[Open Live Portfolio](https://portfolio-pranav-mishra-paranoid.vercel.app)
+
+[![Portfolio Preview](https://image.thum.io/get/width/1400/noanimate/https://portfolio-pranav-mishra-paranoid.vercel.app)](https://portfolio-pranav-mishra-paranoid.vercel.app)
+
 ---
 
 
