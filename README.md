@@ -90,15 +90,6 @@ llm.invoke("Generate a bio")
 
 - **🌌 Stellarium**: VR space odyssey with 107K+ real astronomical objects [Link ↗](https://github.com/PranavMishra17/Stellarium-A-Space-Odyssey-VR-star-system)
 
-
----
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
-</div>
-
-
 ---
 
 ## Resume + Portfolio
@@ -125,6 +116,14 @@ llm.invoke("Generate a bio")
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavMishra17&theme=radical&hide_border=true&background=0D1117&stroke=9d4edd&ring=00d9ff&fire=00d9ff&currStreakLabel=9d4edd" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavMishra17&theme=radical" />
+</div>
+
 
 ---
 
