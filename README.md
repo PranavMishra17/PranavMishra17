@@ -101,18 +101,30 @@ llm.invoke("Generate a bio")
 
 ---
 
-## Resume
+## Resume + Portfolio
 
-<a href="./RESUME%20Pranav_Mishra.pdf">
-  <img src="./assets/resume.png" alt="Resume Banner" width="100%" />
-</a>
-
-
-## Portfolio (Live)
-
-<a href="https://portfolio-pranav-mishra-paranoid.vercel.app">
-  <img src="./assets/portfolio.png" alt="Portfolio Banner" width="100%" />
-</a>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <a href="./RESUME%20Pranav_Mishra.pdf">
+    <img src="./assets/resume.png" alt="Resume Banner" width="100%"/>
+  </a>
+  <br/>
+  <a href="./RESUME%20Pranav_Mishra.pdf"><b>📄 Resume</b></a>
+  <br/>
+  <sub>View / Download my latest resume PDF</sub>
+</td>
+<td width="50%" align="center">
+  <a href="https://portfolio-pranav-mishra-paranoid.vercel.app">
+    <img src="./assets/portfolio.png" alt="Portfolio Banner" width="100%"/>
+  </a>
+  <br/>
+  <a href="https://portfolio-pranav-mishra-paranoid.vercel.app"><b>🌐 Live Portfolio</b></a>
+  <br/>
+  <sub>Explore projects, research, and engineering work</sub>
+</td>
+</tr>
+</table>
 
 ---
 
