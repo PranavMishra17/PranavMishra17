@@ -145,13 +145,13 @@ llm.invoke("Generate a bio")
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <a href="./RESUME%20Pranav_Mishra.pdf">
-    <img src="./assets/resume.png" alt="Resume Banner" width="100%"/>
+  <a href="https://pranavmishra17.vercel.app/resume">
+    <img src="./assets/resume.png" alt="Resume" width="100%"/>
   </a>
   <br/>
-  <a href="./RESUME%20Pranav_Mishra.pdf"><b>📄 Resume</b></a>
+  <a href="https://pranavmishra17.vercel.app/resume"><b>📄 Resume</b></a>
   <br/>
-  <sub>View / Download my latest resume PDF</sub>
+  <sub>The current one, to read or download (<a href="./RESUME%20Pranav_Mishra.pdf">PDF</a>)</sub>
 </td>
 <td width="50%" align="center">
   <a href="https://pranavmishra17.vercel.app">
